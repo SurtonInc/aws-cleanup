@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Program:      s3_full_delete.py
 Original Author:       https://github.com/vsx-gh
