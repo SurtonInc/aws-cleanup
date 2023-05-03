@@ -1,0 +1,4 @@
+export AWS_PROFILE=default
+export BUCKET_NAME=example-the-bucket
+export BUCKET_PREFIX=files/
+export DRY_RUN=1
