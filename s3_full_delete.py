@@ -2,8 +2,9 @@
 
 """
 Program:      s3_full_delete.py
-Author:       https://github.com/vsx-gh
+Original Author:       https://github.com/vsx-gh
 Created:      20170920
+Modified:     20230503
 Program finds S3 objects with delete markers and deletes all versions
 of those objects.
 Be very careful running this code!
